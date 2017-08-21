@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>figures.lp</key>
+  <array>
+    <string>zero</string>
+    <string>one</string>
+    <string>two</string>
+    <string>three</string>
+    <string>four</string>
+    <string>five</string>
+    <string>six</string>
+    <string>seven</string>
+    <string>eight</string>
+    <string>nine</string>
+  </array>
+  <key>figures.op</key>
+  <array>
+    <string>zero.op</string>
+    <string>one.op</string>
+    <string>two.op</string>
+    <string>three.op</string>
+    <string>four.op</string>
+    <string>five.op</string>
+    <string>six.op</string>
+    <string>seven.op</string>
+    <string>eight.op</string>
+    <string>nine.op</string>
+  </array>
+</dict>
+</plist>

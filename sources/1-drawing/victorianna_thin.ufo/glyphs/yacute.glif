@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="1">
+  <advance width="1208"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <contour>
+      <point x="311" y="1123" type="line" name="hr00"/>
+      <point x="322" y="1087" type="line"/>
+      <point x="960" y="1288" type="line"/>
+      <point x="949" y="1324" type="line"/>
+    </contour>
+    <component base="y" xOffset="5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-718" width="-21" />
+      <hstem pos="1000" width="-20" />
+      <hstem pos="1324" width="-21" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

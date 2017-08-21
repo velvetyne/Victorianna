@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflex" format="1">
+  <advance width="984"/>
+  <unicode hex="00F4"/>
+  <outline>
+    <contour>
+      <point x="394" y="1129" type="line"/>
+      <point x="416" y="1098" type="line"/>
+      <point x="653" y="1270" type="line"/>
+      <point x="913" y="1097" type="line"/>
+      <point x="934" y="1129" type="line"/>
+      <point x="651" y="1316" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.656</real>
+    <real>1</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

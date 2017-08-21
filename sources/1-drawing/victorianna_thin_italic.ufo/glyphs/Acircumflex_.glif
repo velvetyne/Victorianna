@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflex" format="1">
+  <advance width="1338"/>
+  <unicode hex="00C2"/>
+  <outline>
+    <contour>
+      <point x="639" y="1861" type="line"/>
+      <point x="661" y="1831" type="line"/>
+      <point x="898" y="2002" type="line"/>
+      <point x="1158" y="1830" type="line"/>
+      <point x="1179" y="1861" type="line"/>
+      <point x="897" y="2048" type="line"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.656</real>
+    <real>1</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

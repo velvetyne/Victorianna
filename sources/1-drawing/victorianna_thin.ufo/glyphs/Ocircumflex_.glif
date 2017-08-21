@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflex" format="1">
+  <advance width="1358"/>
+  <unicode hex="00D4"/>
+  <outline>
+    <contour>
+      <point x="448" y="1822" type="line" name="hr00"/>
+      <point x="470" y="1792" type="line"/>
+      <point x="707" y="1963" type="line"/>
+      <point x="967" y="1791" type="line"/>
+      <point x="988" y="1822" type="line"/>
+      <point x="706" y="2009" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="1791" width="-21" />
+      <hstem pos="2009" width="-21" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

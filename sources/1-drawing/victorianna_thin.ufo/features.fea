@@ -1,0 +1,55 @@
+feature dlig {
+  sub c t by c_t ;
+ 	sub space a n d space by a_n_d ;
+ 	sub space w i t h space by w_i_t_h ;
+ 	sub space a t space by a_t ;
+ 	sub s p by s_p ;
+ 	sub s t by s_t;
+ 	sub w w w by w_w_w ;
+ 	sub v t f by v_t_f ;
+ 	sub w t f by w_t_f ;
+} dlig;
+
+feature liga {
+  sub f f by ff ;
+ 	sub f i by fi ;
+ 	sub f l by fl ;
+	sub f f i by ffi ;
+
+} liga;
+
+feature onum {
+  sub @figures.lp by @figures.op ;
+} onum;
+
+feature lnum {
+  sub @figures.op by @figures.lp ;
+} lnum;
+
+feature ss01 {
+  sub @caps1 by @caps2 ;
+} ss01;
+
+feature ss02 {
+  sub @caps1 by @caps3 ;
+  sub @caps2 by @caps3 ;
+} ss02;
+
+feature titl {
+  sub @caps1 by @caps2 ;
+} titl;
+
+feature swsh {
+  sub @caps1 by @caps3 ;
+  sub @caps2 by @caps3 ;
+} swsh;
+
+
+
+
+
+
+
+
+
+

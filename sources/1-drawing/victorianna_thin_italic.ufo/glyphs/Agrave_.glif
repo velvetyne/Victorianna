@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="1">
+  <advance width="1344"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <contour>
+      <point x="541" y="2030" type="line" name="hr00"/>
+      <point x="1180" y="1829" type="line"/>
+      <point x="1191" y="1865" type="line"/>
+      <point x="553" y="2066" type="line"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.656</real>
+    <real>1</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="1822" width="-21" />
+      <hstem pos="2038" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+feature onum {
+  sub @figures.lp by @figures.op ;
+} onum;
+
+feature lnum {
+  sub @figures.op by @figures.lp ;
+} lnum;
+
+feature liga {
+  sub f f by ff ;
+ 	sub f i by fi ;
+ 	sub f l by fl ;
+	sub f f i by ffi ;
+} liga;
+
+feature dlig {
+  sub c b by c_b ;
+ 	sub c t by c_t;
+  sub c l by c_l ;
+  sub c k by c_k ;
+ 	sub c h by c_h ;
+  sub s b by s_b ;
+  sub s h by s_h ;
+ 	sub s k by s_k ;
+  sub s l by s_l ;
+ 	sub s t by s_t;
+ 	sub w w w by w_w_w ;
+  sub o o by o_o;
+  sub a s by a_s;
+  sub i s by i_s;
+  sub n s by n_s;
+  sub t s by t_s;
+  sub u s by u_s;
+  sub s s by s_s;
+  sub z z by z_z; 
+} dlig;
+
+
+
+

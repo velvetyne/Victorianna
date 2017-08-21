@@ -1,0 +1,22 @@
+---
+unified font repository version: "0.2"
+unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface family:
+  name: Victorianna
+  tags:
+  - serif
+  - art-deco
+  - victorian
+  - thin
+  - decorative
+  - ligatures
+  repository url: https://github.com/velvetyne/victorianna/
+  project url: http://velvetyne.fr/fonts/victorianna/
+  project status: gamma
+  tools:
+  - RoboFont
+  - FontLab
+  similar fonts:
+  sample text:
+  - en_us: The quick brown fox jumps over the lazy dog
+...

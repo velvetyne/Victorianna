@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="egrave" format="1">
+  <advance width="921"/>
+  <unicode hex="00E8"/>
+  <outline>
+    <contour>
+      <point x="190" y="1289" type="line" name="hr00"/>
+      <point x="828" y="1087" type="line"/>
+      <point x="840" y="1124" type="line"/>
+      <point x="202" y="1325" type="line"/>
+    </contour>
+    <component base="e" xOffset="8"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="1087" width="-21" />
+      <hstem pos="1325" width="-21" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

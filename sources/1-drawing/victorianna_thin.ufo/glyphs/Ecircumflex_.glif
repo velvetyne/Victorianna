@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="1">
+  <advance width="1363"/>
+  <unicode hex="00CA"/>
+  <outline>
+    <contour>
+      <point x="258" y="1822" type="line" name="hr00"/>
+      <point x="280" y="1792" type="line"/>
+      <point x="516" y="1963" type="line"/>
+      <point x="777" y="1791" type="line"/>
+      <point x="798" y="1822" type="line"/>
+      <point x="515" y="2009" type="line"/>
+    </contour>
+    <component base="E"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="1791" width="-21" />
+      <hstem pos="2009" width="-21" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

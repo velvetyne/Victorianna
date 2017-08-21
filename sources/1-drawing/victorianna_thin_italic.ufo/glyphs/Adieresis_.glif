@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="1">
+  <advance width="1338"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <contour>
+      <point x="1063" y="1977" type="line"/>
+      <point x="1026" y="1986" type="line"/>
+      <point x="991" y="1827" type="line"/>
+      <point x="1028" y="1819" type="line"/>
+    </contour>
+    <contour>
+      <point x="831" y="2026" type="line"/>
+      <point x="794" y="2035" type="line"/>
+      <point x="759" y="1876" type="line"/>
+      <point x="796" y="1868" type="line"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.656</real>
+    <real>1</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

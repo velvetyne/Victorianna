@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edieresis" format="1">
+  <advance width="1363"/>
+  <unicode hex="00CB"/>
+  <outline>
+    <contour>
+      <point x="350" y="1789" type="line" name="hr00"/>
+      <point x="388" y="1789" type="line"/>
+      <point x="388" y="1951" type="line"/>
+      <point x="350" y="1951" type="line"/>
+    </contour>
+    <contour>
+      <point x="586" y="1789" type="line"/>
+      <point x="624" y="1789" type="line"/>
+      <point x="624" y="1951" type="line"/>
+      <point x="585" y="1951" type="line"/>
+    </contour>
+    <component base="E"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="1789" width="-21" />
+      <hstem pos="1951" width="-21" />
+      <vstem pos="350" width="274" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
